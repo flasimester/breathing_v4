@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><radialGradient id="g" cx="50%" cy="36%" r="75%"><stop offset="0" stop-color="#241308"/><stop offset="1" stop-color="#000"/></radialGradient></defs>
+  <rect width="512" height="512" rx="0" fill="url(#g)"/>
+  <clipPath id="c"><circle cx="256" cy="256" r="152"/></clipPath>
+  <circle cx="256" cy="256" r="178" fill="none" stroke="#232323" stroke-width="12"/>
+  <circle cx="256" cy="256" r="178" fill="none" stroke="#B5602E" stroke-width="12" stroke-linecap="round" stroke-dasharray="840 1119" transform="rotate(-90 256 256)"/>
+  <circle cx="78" cy="256" r="26" fill="#E07B3C" opacity=".25"/><circle cx="78" cy="256" r="13" fill="#E07B3C"/>
+  <g clip-path="url(#c)">
+    <polygon points="330,222 250,390 410,390" fill="#2A2C2E"/>
+    <polygon points="330,222 318,246 326,240 332,250 338,240 342,246" fill="#8B8F92"/>
+    <polygon points="232,170 108,390 232,390" fill="#8B8F92"/>
+    <polygon points="232,170 232,390 372,390" fill="#5B5F62"/>
+    <polygon points="232,170 205,216 220,208 234,224 248,208 262,216" fill="#EDEDEA"/>
+  </g>
+</svg>
